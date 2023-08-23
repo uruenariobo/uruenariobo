@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Urueña</h1>
-<h3 align="center">A passionate Backend developer from Colombia.</h3>
+<h3 align="center">A passionate Software Developer from Colombia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uruenariobo&label=Profile%20views&color=0e75b6&style=flat" alt="uruenariobo" /> </p>
+
+Greetings! I'm a seasoned Software Developer proficient in Java, Javascript, Python, and C#. My expertise spans cloud computing and quality assurance, with a strong focus on efficient database management. 
+
+From writing clean code to ensuring top-notch solutions, I thrive in backend web development. I'm enthusiastic about contributing my skills to drive seamless user experiences and innovative solutions. Let's connect and discuss how I can enhance your tech team.
 
 - 🌱 I’m currently learning **Spring**
 
